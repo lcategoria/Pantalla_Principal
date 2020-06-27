@@ -1,0 +1,2 @@
+rootProject.name='Pantalla_Principal'
+include ':app'
